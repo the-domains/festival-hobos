@@ -1,11 +1,11 @@
 analytics: {}
 color:
   brandColors:
-    - '#B8C8A0'
-    - '#224962'
-    - '#508090'
-    - '#4088B8'
-    - '#A8D0D8'
+    - '#A0C0C0'
+    - '#2A455A'
+    - '#5088A0'
+    - '#406888'
+    - '#000000'
   brandStrength: 0.894014
   lightness: 0.050203
   rhythmicContrast: 0.238769
@@ -15,4 +15,4 @@ layout_spectrum: 0.409909
 name: festival hobos
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.5983091809309793
+typography_spectrum: 0.598309
